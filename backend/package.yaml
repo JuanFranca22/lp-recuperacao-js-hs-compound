@@ -13,5 +13,9 @@ library:
 dependencies:
   - base >= 4.7 && < 5
   - scotty
+  - text
   - aeson
+  - wai
   - wai-cors
+  - transformers
+  - http-types
