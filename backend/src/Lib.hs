@@ -1,0 +1,1 @@
+-- Biblioteca vazia; lógica central foi colocada em Main.hs para simplicidade

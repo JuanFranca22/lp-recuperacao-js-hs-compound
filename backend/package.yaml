@@ -1,0 +1,17 @@
+name: compound-backend
+version: 0.1.0
+resolver: lts-22.0
+
+executables:
+  compound-backend:
+    main: Main.hs
+    source-dirs: app
+
+library:
+  source-dirs: src
+
+dependencies:
+  - base >= 4.7 && < 5
+  - scotty
+  - aeson
+  - wai-cors
