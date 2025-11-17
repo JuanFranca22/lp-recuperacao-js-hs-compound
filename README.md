@@ -64,18 +64,6 @@ Envio via fetch() para o backend
 
 Exibição dos resultados na tela
 
-Exemplo de requisição:
-
-fetch("https://URL-DO-BACKEND/compound", {
-  method: "POST",
-  headers: { "Content-Type": "application/json" },
-  body: JSON.stringify({
-    capital,
-    taxa,
-    tempo
-  })
-});
-
 Backend – Haskell
 
 O backend implementa:
