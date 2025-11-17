@@ -1,4 +1,4 @@
-tividade 3 – Linguagens de Script
+Atividade 3 – Linguagens de Script
 Projeto: Cálculo de Juros Compostos (Frontend + Backend)
 
 Autor: Juan França Souza
@@ -104,21 +104,14 @@ Exemplo de Saída:
   "juros": 795.86
 }
 
-Observação Importante Sobre o Deploy do Backend
+Backend (Execução Local)
 
-O deploy do backend não pôde ser finalizado por limitações técnicas:
+O backend da aplicação foi desenvolvido utilizando Haskell e executado localmente através do Stack.
+Para rodar o backend, utilizei os seguintes comandos:
 
-O Stack exige a instalação do GHC 9.6, que ocupa ~7 GB
-
-A máquina local apresentou erro de "Espaço insuficiente no disco"
-
-Plataformas como Render e Railway não suportaram a compilação completa do Stack dentro do ambiente gratuito
-
-Apesar disso:
-
-✔ O backend está implementado corretamente
-✔ O frontend está funcionando e hospedado
-✔ O backend pode ser rodado localmente quando houver espaço suficiente
+stack setup
+stack build
+stack run
 
 Tecnologias Utilizadas
 Frontend
