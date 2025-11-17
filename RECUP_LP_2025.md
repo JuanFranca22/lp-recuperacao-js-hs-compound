@@ -1,11 +1,7 @@
 # Identificação da Atividade
 
-**Nome:** Juan França Souza
+**Nome:** Juan Cleryson França Souza
 
-**Turma:** (preencher)
+**Frontend Produção:** https://lp-recuperacao-js-hs-compound-ten.vercel.app/
 
-**Frontend Produção:** URL da Vercel
-
-**Backend Produção:** URL do Render
-
-**Repositório GitHub:** https://github.com/SEU_USER/lp-recuperacao-js-hs-compound
+**Repositório GitHub:** https://github.com/JuanFranca22/lp-recuperacao-js-hs-compound/blob/main/README.md
